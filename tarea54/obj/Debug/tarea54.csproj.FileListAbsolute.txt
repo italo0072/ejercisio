@@ -1,0 +1,10 @@
+C:\Users\lobo1\source\repos\tarea54\tarea54\bin\Debug\tarea54.exe.config
+C:\Users\lobo1\source\repos\tarea54\tarea54\bin\Debug\tarea54.exe
+C:\Users\lobo1\source\repos\tarea54\tarea54\bin\Debug\tarea54.pdb
+C:\Users\lobo1\source\repos\tarea54\tarea54\bin\Debug\ejercisio.dll
+C:\Users\lobo1\source\repos\tarea54\tarea54\bin\Debug\ejercisio.pdb
+C:\Users\lobo1\source\repos\tarea54\tarea54\obj\Debug\tarea54.csprojAssemblyReference.cache
+C:\Users\lobo1\source\repos\tarea54\tarea54\obj\Debug\tarea54.csproj.CoreCompileInputs.cache
+C:\Users\lobo1\source\repos\tarea54\tarea54\obj\Debug\tarea54.csproj.CopyComplete
+C:\Users\lobo1\source\repos\tarea54\tarea54\obj\Debug\tarea54.exe
+C:\Users\lobo1\source\repos\tarea54\tarea54\obj\Debug\tarea54.pdb
